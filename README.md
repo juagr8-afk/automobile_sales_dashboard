@@ -10,7 +10,7 @@ This project explores automobile sales in relation to macroeconomic trends, incl
 - `Automobile_Sales_Analysis.ipynb` → Jupyter notebook explaining the project and displaying key graphs.
 
 ### 2. Dash Application
-- `app_dash.py` → Python code for the interactive Dash dashboard.  
+- `dashboard.py` → Python code for the interactive Dash dashboard.  
 
 ---
 
