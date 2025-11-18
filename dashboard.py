@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output
 import pandas as pd
 import plotly.express as px
 
-data = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv')
+data = pd.read_csv('historical_automobile_sales(1).csv')
 
 app = dash.Dash(__name__)
 app.title = "Automobile Statistics Dashboard"
